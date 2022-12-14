@@ -1,7 +1,25 @@
 
 > Open this page at [https://milos027.github.io/cvet/](https://milos027.github.io/cvet/)
 
-## Use as Extension
+## tutorials
+
+* [tutorial] (/Tutorial)
+ 
+## Step 1
+
+Here is some text.
+
+
+jesse pinkman
+
+
+***blocks
+
+
+Congratulations, you did it!
+
+ (/tutorial)
+
 
 This repository can be added as an **extension** in MakeCode.
 
